@@ -34,7 +34,7 @@ Feature: Online Calculator
             | 15   | 15   | 1          |
             | 100  | 12.5 | 8          |
             | 50   | 130  | 0.38461539 |
-            | 333  | 3    | 148        |
+            | 450  | 3    | 150        |
             | 150  | 0    | Error      |
 
     Scenario Outline: Multiplying 2 numbers
